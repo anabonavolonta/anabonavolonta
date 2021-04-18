@@ -6,8 +6,7 @@
 
 ### Hi, welcome to my page!
 
- I'm 29, studying Internet Systems at FIAP.
-&nbsp;
+I'm 29, studying Internet Systems at FIAP.
 Currently I'm intern at CERC Central de Recebíveis and I live in São Paulo, Brazil. I work as a front-end developer with UI/UX design skills (front-end designer). 
 
 I love cats, music and I'm always trying to grow and learning somenthing new. 
