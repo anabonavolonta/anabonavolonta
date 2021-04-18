@@ -2,7 +2,7 @@
 <!--
 **anabonavolonta/anabonavolonta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![tent](https://user-images.githubusercontent.com/73191686/115132214-67e6e380-9fd4-11eb-9022-eda20acb6ec2.png)
+![blubi](https://user-images.githubusercontent.com/73191686/115132451-8d74ec80-9fd6-11eb-951a-10acb3175954.png)
 
 
 ### Hi, welcome to my page!
